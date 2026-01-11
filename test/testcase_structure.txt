@@ -1,0 +1,12 @@
+First line contains only the number of operators and the number of machines.
+E.g. 5 operators and 4 machines is: 5 4
+Separated by a space character.
+
+The next n lines must consist of m rows (n = 5 & m = 4 in this case).
+
+The next line must consist, again, of the number of operators and machines.
+It MUST be the same as before.
+
+The last lines must consist of only integers.
+The first of those MUST be only ONE integer (without size constraint).
+The next lines can be of diferent sizes BUT they must be separated by spaces characters.

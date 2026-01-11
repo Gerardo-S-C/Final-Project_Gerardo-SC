@@ -1,0 +1,19 @@
+*.o
+*.exe
+*.out
+main
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+
+# Generated data files
+results/
+plots/
+*.csv
+
+# IDEs
+.vscode/
+.idea/
